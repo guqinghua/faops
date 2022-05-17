@@ -733,7 +733,7 @@ GgaAaTGgAgTgaAGcaGCAtCtGctgaGCCCCATTctctAgCggaaaATGgtatCGaAC
 >read1(+):10-30
 gCggtgTgGATTAaggCAGag
 ```
-### **总结**
+## **总结**
 Faops具有功能集约化的特点，仅需一款软件即可对基因序列数据进行多方面的分析。Faops软件能帮助我们准确分析基因组序列，为我们的研究带来便捷。
 
 本工具由南京大学生科院王强老师wang-q@outlook.com 开发，更多内容请参考: https://github.com/wang-q/faops
